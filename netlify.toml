@@ -8,19 +8,19 @@ command = "hugo"
 [[headers]]
 for = "/*.jpg"
 [headers.values]
-  Cache-Control = "public, max-age=4260000"
+  Cache-Control = "public, max-age=10000000"
 
 [[headers]]
 for = "/*.png"
 [headers.values]
-  Cache-Control = "public, max-age=4260000"
+  Cache-Control = "public, max-age=10000000"
 
 [[headers]]
 for = "/*.css"
 [headers.values]
-  Cache-Control = "public, max-age=4260000"
+  Cache-Control = "public, max-age=10000000"
 
 [[headers]]
 for = "/*.js"
 [headers.values]
-  Cache-Control = "public, max-age=4260000"
+  Cache-Control = "public, max-age=10000000"
