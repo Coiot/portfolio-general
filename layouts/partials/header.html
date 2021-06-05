@@ -19,7 +19,7 @@
             {{ range $action := $.Site.Data.config.header.nav_links }}
               {{ $pageUrl := trim $.URL "/" }}
               {{ $actionUrl := trim $action.url "/" }}
-              <li class="menu-item{{ if eq $pageUrl $actionUrl }} current-menu-item{{ end }}{{ if ne $action.style "link" }} menu-button{{ end }}">
+              <li class="menu-item{{ if eq $pageUrl $actionUrl }} current-menu-item{{ end }}">
                 {{ $include_dict := dict "action" $action }}
                 {{ partial "action.html" $include_dict }}
               </li>
