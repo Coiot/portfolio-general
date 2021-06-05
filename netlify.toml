@@ -24,3 +24,8 @@ for = "/*.css"
 for = "/*.js"
 [headers.values]
   Cache-Control = "public, max-age=10000000"
+
+[[headers]]
+for = "/*.html"
+[headers.values]
+  Cache-Control = "public, max-age=10000000"
