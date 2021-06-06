@@ -12,13 +12,13 @@
         "style": "link"
       },
       {
-        "label": "About",
-        "url": "/about/",
+        "label": "Process",
+        "url": "/process",
         "style": "link"
       },
       {
-        "label": "Resume",
-        "url": "/resume",
+        "label": "About",
+        "url": "/about/",
         "style": "link"
       },
       {

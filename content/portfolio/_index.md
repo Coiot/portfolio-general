@@ -1,31 +1,31 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Recent clients and on-going projects.
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: Recent clients and on-going projects.
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Portfolio
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: This is the portfolio page
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Portfolio
-    - name: 'twitter:description'
-      value: This is the portfolio page
-    - name: 'twitter:image'
+    - name: "twitter:description"
+      value: Recent clients and on-going projects.
+    - name: "twitter:image"
       value: images/1.jpg
       relativeUrl: true
 layout: portfolio

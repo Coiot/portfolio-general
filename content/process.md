@@ -1,11 +1,9 @@
 ---
-title: Resume
+title: Process
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  How it's all done
 seo:
-  title: Isaac Volpe's Resume
+  title: Process
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: "og:type"
@@ -38,14 +36,6 @@ layout: page
 ---
 
 **This is a paragraph**. Pellentesque habitant morbi _tristique senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
-
-# This is an H1
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, <mark>velit vel porta elementum</mark>, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-> Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
-
-## Tables
 
 <table>
     <caption>Table with thead, tfoot, and tbody</caption>

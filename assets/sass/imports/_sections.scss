@@ -64,6 +64,7 @@
   display: inline-block;
   font-size: 1.33333em;
   font-weight: bold;
+  color: _palette(accent-yellow);
   line-height: 1.5;
   margin-bottom: 1em;
   padding: 0.58333em 0;
@@ -129,8 +130,8 @@
   left: 50%;
   position: absolute;
   top: 50%;
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   z-index: 2;
 
   .accent-green & {
@@ -157,22 +158,22 @@
     height: 32%;
     left: 0;
     position: absolute;
-    transition: .3s ease;
-    -webkit-transition: .3s ease;
+    transition: 0.3s ease;
+    -webkit-transition: 0.3s ease;
     width: 100%;
 
     .accent-green & {
       border-color: _palette(accent-green);
     }
-  
+
     .accent-blue & {
       border-color: _palette(accent-blue);
     }
-  
+
     .accent-violet & {
       border-color: _palette(accent-violet);
     }
-  
+
     .accent-yellow & {
       border-color: _palette(accent-yellow);
     }

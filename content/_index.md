@@ -4,69 +4,61 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Isaac Volpe"
+    title: "Aloha!"
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I'm Isaac Volpe, a versatile Web Developer and Graphic Designer with a passion for Aesthics, Phenomenology, History, and Indigenous Studies.
     actions:
-      - label: Let's talk
+      - label: Say Hello!
         url: /contact
         style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: An optional subtitle of the section
+    subtitle: Samples and write-ups from my portfolio.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
+    title: Current Skillset
+    subtitle: Services I can offer your project from day one.
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Web Development
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Service Title
+          Web App, E-Commerce, Accessibility, Server Management
+      - title: Graphic Design
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - title: Service Title
+          Branding/Identity, Typography, UI, Illustration
+      - title: Marketing
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
+          Social Media, SEO, Newsletter, Email
+      - title: Other
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Copywriting, Documentation, Video Editing, Photography
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Recognition from some of my latest clients.
     col_number: three
     testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
+      - author: Marcia Donley
+        avatar: images/LALSstickers.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
+      - author: William Chesser
+        avatar: images/LALSstickers.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
+      - author: Rick Dandrow
+        avatar: images/LALSstickers.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
