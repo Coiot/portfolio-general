@@ -1,7 +1,7 @@
 ---
 title: Thank You!
 image: images/thank-you.jpg
-image_alt: Thank You Led Signage
+image_alt: Thank You sign
 layout: page
 ---
 

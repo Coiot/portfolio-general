@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Current Skillset
+    title: Diverse Skillset
     subtitle: Services I can offer your project from day one.
     col_number: two
     is_numbered: true
@@ -45,27 +45,27 @@ sections:
     col_number: three
     testimonials:
       - author: Marcia Donley
-        avatar: images/LALSstickers.jpg
+        avatar: images/LALSicons.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
       - author: William Chesser
-        avatar: images/LALSstickers.jpg
+        avatar: images/LALSicons.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Rick Dandrow
-        avatar: images/LALSstickers.jpg
+        avatar: images/LALSicons.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: Isaac Volpe – Graphic Designer & Web Developer
-  description: Personal website of Isaac Volpe
+  description: Freelancer operating from Fayetteville, Arkansas. He/Him.
   extra:
     - name: "og:type"
       value: website
@@ -85,7 +85,7 @@ seo:
     - name: "twitter:title"
       value: Isaac Volpe – Graphic Designer & Web Developer
     - name: "twitter:description"
-      value: Personal website of Isaac Volpe
+      value: Freelancer operating from Fayetteville, Arkansas. He/Him.
     - name: "twitter:image"
       value: logo.png
       relativeUrl: true

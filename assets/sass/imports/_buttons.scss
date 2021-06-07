@@ -13,18 +13,18 @@
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: bold;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
   line-height: 1.2;
-  padding: 0.9em 1.875em;
+  padding: 1em 1.875em;
   position: relative;
   text-align: center;
   text-decoration: none;
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
 
   .accent-green & {
     color: _palette(accent-green);
@@ -44,15 +44,15 @@
 
   &:before,
   &:after {
-    border: 2px solid currentColor;
+    border: 4px solid currentColor;
     box-sizing: border-box;
     color: inherit;
     content: "";
     height: 32%;
     left: 0;
     position: absolute;
-    transition: .3s ease;
-    -webkit-transition: .3s ease;
+    transition: 0.3s ease;
+    -webkit-transition: 0.3s ease;
     width: 100%;
   }
 
@@ -75,15 +75,15 @@
     .accent-green & {
       color: _palette(accent-green);
     }
-  
+
     .accent-blue & {
       color: _palette(accent-blue);
     }
-  
+
     .accent-violet & {
       color: _palette(accent-violet);
     }
-  
+
     .accent-yellow & {
       color: _palette(accent-yellow);
     }

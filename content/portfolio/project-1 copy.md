@@ -2,9 +2,9 @@
 title: Project Title 1
 subtitle: Optional Project Subtitle
 date: "2019-05-10"
-thumb_image: images/LALSstickers.jpg
+thumb_image: images/LALSicons.jpg
 thumb_image_alt: "White, black, and red shoe sole"
-image: images/LALSstickers.jpg
+image: images/LALSicons.jpg
 image_alt: "White, black, and red shoe sole"
 seo:
   title: Project Title 1
@@ -20,7 +20,7 @@ seo:
       value: This is the project 1 description
       keyName: property
     - name: "og:image"
-      value: images/LALSstickers.jpg
+      value: images/LALSicons.jpg
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -30,7 +30,7 @@ seo:
     - name: "twitter:description"
       value: This is the project 1 description
     - name: "twitter:image"
-      value: images/LALSstickers.jpg
+      value: images/LALSicons.jpg
       relativeUrl: true
 layout: project
 ---

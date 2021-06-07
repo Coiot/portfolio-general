@@ -1,6 +1,6 @@
 ---
 title: Designer & Academic
-subtitle: What makes it all possible
+subtitle: What makes it all possible.
 image:
 image_alt: A man taking a picture
 seo:
@@ -11,10 +11,10 @@ seo:
       value: website
       keyName: property
     - name: "og:title"
-      value: About Us
+      value: About
       keyName: property
     - name: "og:description"
-      value: This is the about us page
+      value: Designer & Academic
       keyName: property
     - name: "og:image"
       value: images/about.jpg
@@ -23,9 +23,9 @@ seo:
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: About Us
+      value: About
     - name: "twitter:description"
-      value: This is the about us page
+      value: Designer & Academic
     - name: "twitter:image"
       value: images/about.jpg
       relativeUrl: true

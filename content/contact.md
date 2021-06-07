@@ -5,7 +5,7 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you for your interest in working together. Please
+      Thank you for your interest in working together, let's connect. Please
       fill the contact form below or send me an email at
       [contact@isaacvolpe.com](mailto:contact@isaacvolpe.com).
     form_id: contactForm
@@ -42,7 +42,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact
-  description: This is the contact page
+  description: Get in touch!
   extra:
     - name: "og:type"
       value: website
@@ -51,13 +51,13 @@ seo:
       value: Contact
       keyName: property
     - name: "og:description"
-      value: This is the contact page
+      value: Get in touch!
       keyName: property
     - name: "twitter:card"
       value: summary
     - name: "twitter:title"
       value: Contact
     - name: "twitter:description"
-      value: This is the contact page
+      value: Get in touch!
 layout: advanced
 ---
