@@ -64,30 +64,30 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: Isaac Volpe – Graphic Designer & Web Developer
+  description: Personal website of Isaac Volpe
   extra:
     - name: "og:type"
       value: website
       keyName: property
     - name: "og:title"
-      value: Stackbit Exto Theme
+      value: Isaac Volpe – Graphic Designer & Web Developer
       keyName: property
     - name: "og:description"
-      value: The preview of the Exto theme
+      value: Personal website of Isaac Volpe
       keyName: property
     - name: "og:image"
-      value: images/exto_preview.png
+      value: logo.png
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
       value: summary_large_image
     - name: "twitter:title"
-      value: Stackbit Exto Theme
+      value: Isaac Volpe – Graphic Designer & Web Developer
     - name: "twitter:description"
-      value: The preview of the Exto theme
+      value: Personal website of Isaac Volpe
     - name: "twitter:image"
-      value: images/exto_preview.png
+      value: logo.png
       relativeUrl: true
 layout: advanced
 ---
