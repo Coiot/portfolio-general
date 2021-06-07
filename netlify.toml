@@ -16,6 +16,11 @@ for = "/*.png"
   Cache-Control = "public, max-age=10000000"
 
 [[headers]]
+for = "/*.webp"
+[headers.values]
+  Cache-Control = "public, max-age=10000000"
+
+[[headers]]
 for = "/*.css"
 [headers.values]
   Cache-Control = "public, max-age=10000000"

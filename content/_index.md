@@ -15,8 +15,8 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: Samples and write-ups from my portfolio.
-    projects_number: 6
+    subtitle: "Samples and write-ups from my portfolio."
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
@@ -65,7 +65,8 @@ sections:
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: Isaac Volpe – Graphic Designer & Web Developer
-  description: Freelancer operating from Fayetteville, Arkansas. He/Him.
+  description: >-
+    Freelancer operating from Fayetteville, Arkansas. He/Him.
   extra:
     - name: "og:type"
       value: website
@@ -85,7 +86,8 @@ seo:
     - name: "twitter:title"
       value: Isaac Volpe – Graphic Designer & Web Developer
     - name: "twitter:description"
-      value: Freelancer operating from Fayetteville, Arkansas. He/Him.
+      value: >-
+        Freelancer operating from Fayetteville, Arkansas. He/Him.
     - name: "twitter:image"
       value: logo.png
       relativeUrl: true

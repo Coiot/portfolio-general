@@ -5,9 +5,9 @@ excerpt: >-
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
 date: "2019-03-27"
-thumb_image: images/12_thumb.jpg
+thumb_image: images/1_thumb.jpg
 thumb_image_alt: A pile of books on the table
-image: images/12.jpg
+image: images/1.jpg
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
@@ -27,7 +27,7 @@ seo:
         primis
       keyName: property
     - name: "og:image"
-      value: images/12.jpg
+      value: images/1.jpg
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -39,7 +39,7 @@ seo:
         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
         primis
     - name: "twitter:image"
-      value: images/12.jpg
+      value: images/1.jpg
       relativeUrl: true
 layout: post
 ---
