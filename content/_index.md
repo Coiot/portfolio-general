@@ -31,10 +31,10 @@ sections:
           Web App, E-Commerce, Accessibility, Server Management
       - title: Graphic Design
         content: >-
-          Branding/Identity, Typography, UI, Illustration
+          Identity, Typography, Motion Graphics, Illustration
       - title: Marketing
         content: >-
-          Social Media, SEO, Newsletter, Email
+          Social Media, Branding, SEO, Newsletter & Email
       - title: Other
         content: >-
           Copywriting, Documentation, Video Editing, Photography

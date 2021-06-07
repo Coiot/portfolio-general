@@ -2,7 +2,7 @@
  * Sections
  */
 .block {
-  padding-top: 5em;
+  padding-top: 3.5em;
 }
 
 .block:first-child,
@@ -15,7 +15,7 @@
 }
 
 .block-header {
-  margin-bottom: 2.5em;
+  margin-bottom: 2em;
 }
 
 .block-title {
@@ -49,7 +49,7 @@
   a {
     font-size: 16px;
     font-weight: bold;
-    margin-bottom: 0.9375em;
+    margin-bottom: 1em;
     margin-right: 20px;
 
     &:not(.button) {
@@ -66,7 +66,7 @@
   font-weight: bold;
   color: _palette(accent-yellow);
   line-height: 1.5;
-  margin-bottom: 1em;
+  margin-bottom: .5em;
   padding: 0.58333em 0;
   position: relative;
   text-align: center;
