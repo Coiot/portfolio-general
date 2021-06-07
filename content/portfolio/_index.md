@@ -1,10 +1,10 @@
 ---
 title: Portfolio
-subtitle: Recent clients and on-going projects.
+subtitle: "Recent clients and on-going projects."
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: Recent clients and on-going projects.
+  description: "Recent clients and on-going projects."
   extra:
     - name: "og:type"
       value: website
@@ -13,7 +13,7 @@ seo:
       value: Portfolio
       keyName: property
     - name: "og:description"
-      value: Recent clients and on-going projects.
+      value: "Recent clients and on-going projects."
       keyName: property
     - name: "og:image"
       value: images/1.jpg
@@ -24,7 +24,7 @@ seo:
     - name: "twitter:title"
       value: Portfolio
     - name: "twitter:description"
-      value: Recent clients and on-going projects.
+      value: "Recent clients and on-going projects."
     - name: "twitter:image"
       value: images/1.jpg
       relativeUrl: true
