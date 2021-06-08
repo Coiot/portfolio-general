@@ -1,7 +1,7 @@
 ---
 title: Designer & Academic
 subtitle: What makes it all possible.
-image:
+image: images/isaac.webp
 image_alt: A man taking a picture
 seo:
   title: About Us
@@ -17,7 +17,7 @@ seo:
       value: Designer & Academic
       keyName: property
     - name: "og:image"
-      value: images/about.jpg
+      value: images/isaac.webp
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -27,7 +27,7 @@ seo:
     - name: "twitter:description"
       value: Designer & Academic
     - name: "twitter:image"
-      value: images/about.jpg
+      value: images/isaac.webp
       relativeUrl: true
 layout: page
 ---
