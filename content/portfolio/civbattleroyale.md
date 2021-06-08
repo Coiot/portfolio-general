@@ -1,8 +1,8 @@
 ---
-title: LALS Projects
+title: Civ Battle Royale
 subtitle: Optional Project Subtitle
-date: "2019-03-08"
-thumb_image: images/LALS_thumb.webp
+date: "2019-04-11"
+thumb_image: images/1.jpg
 thumb_image_alt: "White, black, and red shoe sole"
 image:
 image_alt: "White, black, and red shoe sole"
@@ -20,7 +20,7 @@ seo:
       value: This is the project 1 description
       keyName: property
     - name: "og:image"
-      value: images/LALS_thumb.webp
+      value: josh_motes_bbq.webp
       keyName: property
       relativeUrl: true
     - name: "twitter:card"
@@ -30,43 +30,27 @@ seo:
     - name: "twitter:description"
       value: This is the project 1 description
     - name: "twitter:image"
-      value: images/LALS_thumb.webp
+      value: josh_motes_bbq.webp
       relativeUrl: true
 layout: project
 ---
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
 
-![](/images/LALS-flyer_3.webp)
+![](/images/josh_motes_bbq-wireframes.webp)
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
 
-![](/images/LALS-flyer_4.webp)
+![](/images/josh_motes_bbq_2.webp)
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
 
-![](/images/LALS-flyer_5.webp)
+![](/images/josh_motes_bbq_3.webp)
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
 
-![](/images/LALS-flyer_6.webp)
+![](/images/josh_motes_bbq_4.webp)
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
 
-![](/images/LALS-flyer_7.webp)
-
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
-
-![](/images/LALS-flyer_8.webp)
-
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
-
-![](/images/LALS-flyer_9.webp)
-
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
-
-![](/images/LALS-plaza_2.webp)
-
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
-
-![](/images/LALS-plaza.webp)
+![](/images/josh_motes_bbq_5.webp)
