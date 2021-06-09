@@ -1,7 +1,7 @@
 ---
 title: Process
 subtitle: >-
-  How it's all done.
+  How it's all done. What makes it possible.
 seo:
   title: Process
   description: Overview of Services and Production & Delivery Methods
@@ -31,28 +31,65 @@ seo:
 layout: page
 ---
 
-# Overview of Services and Production & Delivery Methods
+## Overview of Services
 
-**This is a paragraph**. Pellentesque habitant morbi _tristique senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+### Graphic & Web Design
+
+As a graphic designer, I provide print and web-ready material ranging from logos, business cards, posters & banners, icons, illustrations, and more. My work is <mark>vector based</mark> built to scale to any size, or <mark>hand-drawn</mark> to provide a personal touch. As a web designer, my work goes from sketch to finished design including all the coded styling. Through setting up the information architecture to working prototype, I do not chase imaginary pixel perfection and work on a strong foundation that ensures the vision translates across devices.
+
+### Web Development
+
+As a web developer, I turn web designs into <mark>responsive, mobile-ready applications</mark> that have custom code on private servers or cloud infrastructure. I build marketing websites with static-site generators and e-commerce web apps as single-page or server-side applications. I provide <abbr title="Don’t Repeat Yourself">DRY</abbr> code that aims for maintainability and markup that is semantic with <mark>accessibility</mark> as a priority. I maintain servers and provide troubleshooting in debugging errors. I can also provide services in setting up <mark>e-commerce</mark> portals through platforms like Shopify.
+
+### Marketing
+
+I run social media campaigns to grow a following and keep <mark>content calendars</mark> busy. I direct a consistent branding strategy that will have the campaign standout from amongst its competition. I setup <mark>newsletters</mark> and create <mark>email</mark> designs—providing templates for future use if my role is temporary. I do research and discovery to make sure our <mark><abbr title="Search Engine Optimization">SEO</abbr></mark> strategy reaches the intended demographics and builds upon the <abbr title="Key Performance Indicators">KPIs</abbr> that are identified.
+
+### Other
+
+I can provide for projects new and old <mark>documentation</mark> and <mark>art direction</mark> guides to keep knowledge transfer in the organization fast and well articulated. I provide <mark>copywriting</mark> to keep a strong and consistent voice throughout copy and printed materials. I also provide assistance to <mark>video editing</mark>, filming, and <mark>photography</mark>. If needed, I am able to help with hardware setup and repair.
+
+## Tools
 
 <table>
-    <caption>Table with thead, tfoot, and tbody</caption>
+    <caption>Production & Delivery Methods</caption>
   <thead>
     <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
+      <th>Service</th>
+      <th>Tool</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-    </tr>
+  <tr>
+    <td>Graphic / Web Design</td>
+    <td>Affinity Suite</td>
+  </tr>
+  <tr>
+    <td>Illustration</td>
+    <td>Procreate / Pixelmator Pro</td>
+  <tr>
+    <td>Text Editor + Terminal</td>
+    <td>Nova / Hyper / Oh My Zsh</td>
+  </tr>
+  <tr>
+    <td>Deployment</td>
+    <td>Netlify / Vercel / DigitalOcean / Azure</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>Firebase / Fauna / PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>Prototypes</td>
+    <td>Sketch / Figma / Framer</td>
+  </tr>
+  <tr>
+    <td>Domains</td>
+    <td>Vercel / Google</td>
+  </tr>
+  <tr>
+    <td>Writing</td>
+    <td>iA Writer / Craft</td>
+  </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
 </table>
