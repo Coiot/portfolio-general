@@ -4,8 +4,8 @@ subtitle: Little about me.
 image: images/isaac.webp
 image_alt: A man taking a picture
 seo:
-  title: About
-  description: Who is Isaac Volpe
+  title: Designer & Developer
+  description: Little about me.
   extra:
     - name: "og:type"
       value: website

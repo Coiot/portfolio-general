@@ -44,22 +44,20 @@ sections:
     subtitle: Recognition from some of my latest clients.
     col_number: three
     testimonials:
-      - author: Marcia Donley
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Sean Salazar's photo
+      - author: Marcia Donley, CEO, NWACommunity Cat Project
+        avatar: images/marcia_donley.webp
+        avatar_alt: Marcia Donley's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Isaac has been our website manager/designer for many years. He has always been helpful, thoughtful, patient, kind and responsive. And creative. We feel lucky to have him!
       - author: William Chesser
         avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
+        avatar_alt: William Chesser's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Rick Dandrow
         avatar: images/aubrey_hoover.jpg
-        avatar_alt: Deegan Wallace's photo
+        avatar_alt: Rick Dandrow's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
