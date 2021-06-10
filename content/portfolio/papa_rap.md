@@ -1,6 +1,6 @@
 ---
 title: Papa Rap
-subtitle: Fresh new look for 2021.
+subtitle: Fresh new look for 2021
 date: "2019-05-10"
 thumb_image: images/papa_rap_thumb.webp
 thumb_image_alt: "Papa Rap's logo, composed of upside down musical notes to form his name"
