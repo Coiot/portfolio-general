@@ -51,7 +51,7 @@ In fact, the whole ordering process can be done <mark>directly on the homepage</
 
 ![](/images/josh_motes_bbq_3.webp)
 
-The website was built as a progressive web app that does order calculations and interactions on the client-side, and then using <mark>server-less functions</mark>, fulfill orders with <mark>Stripe</mark> and also decrease available slots for each successful transaction. This allowed all interactions to take all in the homepage without invoking any modules or screen transitions.
+The website was built as a progressive web app that does order calculations and interactions on the client-side, and then using <mark>server-less functions</mark>, fulfill orders with <mark>Stripe</mark> and also decrease available slots for each successful transaction. This allowed all customer and payment processing interactions to take place all in the homepage without invoking any modules or screen transitions.
 
 ![](/images/josh_motes_bbq_4.webp)
 

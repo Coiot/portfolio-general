@@ -35,7 +35,7 @@ seo:
 layout: project
 ---
 
-Papa Rap is a musician and Latino motivational speaker operating in Northwest Arkansas. He hosts events, performs in a variety of bands, conducts <abbr title="Public Service Announcements">PSAs</abbr>, does cultural and music presentations in primary schools, and is a spokesperson for the community
+Papa Rap is a musician and Latino motivational speaker operating in Northwest Arkansas. He hosts events, performs in a variety of bands, conducts <abbr title="Public Service Announcements">PSAs</abbr>, does cultural and music presentations in primary schools, and is a spokesperson for the community.
 
 Since 2007, Papa Rap and I have been working together as I created his first website long ago in Flash and have steadily been improving his web presence and helping out with some design work here and there. To coincide with new music that was set to release in 2020, we wanted to update his logo and social media pages with a new look.
 
