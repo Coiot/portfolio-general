@@ -49,18 +49,16 @@ sections:
         avatar_alt: Marcia Donley's photo
         content: >-
           Isaac has been our website manager/designer for many years. He has always been helpful, thoughtful, patient, kind and responsive. And creative. We feel lucky to have him!
-      - author: William Chesser
+      - author: William Chesser, Founder, CastleFoundry
         avatar: images/william_chesser.webp
         avatar_alt: William Chesser's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Rick Dandrow
+          Isaac and his brother Obed have been long time collobrators of mine and are able to provide cost-effective solutions for my projects. I love working with a team that covers all needs.
+      - author: Rick Dandrow, Founder, Humans4Health
         avatar: images/rick_dandrow.webp
         avatar_alt: Rick Dandrow's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Isaac was able to rescue me when I needed a social media campaign and donation website on quick notice and on a tight budget. It feels good to have a knowledge expert on call.
 seo:
   title: Isaac Volpe – Graphic Designer & Web Developer
   description: >-
