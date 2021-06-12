@@ -50,7 +50,7 @@ sections:
         content: >-
           Isaac has been our website manager/designer for many years. He has always been helpful, thoughtful, patient, kind and responsive. And creative. We feel lucky to have him!
       - author: William Chesser
-        avatar: images/aubrey_hoover.jpg
+        avatar: images/william_chesser.webp
         avatar_alt: William Chesser's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis

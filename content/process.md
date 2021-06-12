@@ -81,7 +81,7 @@ I can provide for projects new and old <mark>documentation</mark> and <mark>art 
   </tr>
   <tr>
     <td>Prototypes</td>
-    <td>Sketch / Figma / Framer</td>
+    <td>Sketch / Figma</td>
   </tr>
   <tr>
     <td>Domains</td>
