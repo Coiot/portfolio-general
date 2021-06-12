@@ -58,7 +58,7 @@ sections:
         avatar: images/rick_dandrow.webp
         avatar_alt: Rick Dandrow's photo
         content: >-
-          Isaac was able to rescue me when I needed a social media campaign and donation website on quick notice and on a tight budget. It feels good to have a knowledge expert on call.
+          Isaac was able to rescue me when I needed a social media campaign and donation website on quick notice and on a tight budget. It feels good to have a knowledgeable expert on call.
 seo:
   title: Isaac Volpe – Graphic Designer & Web Developer
   description: >-
