@@ -7,7 +7,7 @@ sections:
     content: >-
       Thank you for your interest in working together, let's connect. Please
       fill the contact form below or send me an email at
-      [contact@isaacvolpe.com](mailto:contact@isaacvolpe.com).
+      [mailto:isaac.volpe@me.com](mailto:isaac.volpe@me.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
