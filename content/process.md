@@ -69,27 +69,15 @@ I can provide for projects new and old <mark>documentation</mark> and <mark>art 
     <td>Procreate / Pixelmator Pro</td>
   <tr>
     <td>Text Editor + Terminal</td>
-    <td>Nova / Hyper / Oh My Zsh</td>
+    <td>Zed + Warp</td>
   </tr>
   <tr>
     <td>Deployment</td>
     <td>Netlify / Vercel / DigitalOcean / Azure</td>
   </tr>
   <tr>
-    <td>Database</td>
-    <td>Firebase / Fauna / PostgreSQL</td>
-  </tr>
-  <tr>
     <td>Prototypes</td>
     <td>Sketch / Figma</td>
-  </tr>
-  <tr>
-    <td>Domains</td>
-    <td>Vercel / Google</td>
-  </tr>
-  <tr>
-    <td>Writing</td>
-    <td>iA Writer / Craft</td>
   </tr>
   </tbody>
 </table>
